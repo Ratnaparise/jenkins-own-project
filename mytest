@@ -1,0 +1,4 @@
+echo "this is testb data"
+date
+cal
+echo "bye"
